@@ -5,7 +5,7 @@
   "description": "Simple utility for fomating pt-br prices",
   "main": "./dist/index.js",
   "scripts": {
-    "test": "tap"
+    "test": "tsc && tap"
   },
   "keywords": [],
   "author": "felipe53",
