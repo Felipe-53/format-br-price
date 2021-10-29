@@ -1,7 +1,7 @@
 {
   "name": "@felipe-53/format-br-price",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple utility for fomating pt-br prices",
   "main": "./dist/index.js",
   "scripts": {
