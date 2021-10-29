@@ -1,0 +1,17 @@
+{
+  "name": "@felipe-53/format-br-price",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Simple utility for fomating pt-br prices",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [],
+  "author": "felipe53",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^15.0.10",
+    "typescript": "^4.4.4"
+  }
+}
